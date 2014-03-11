@@ -11,7 +11,7 @@ public class MainActivity extends Activity {
 
 
     static Map<String,EmployeeType> typeMap = new HashMap<String,EmployeeType>();
-
+/*This EmployeeType ENUM class throws me off a bit.*/
     static
     {
         typeMap.put("cto", EmployeeType.CTO);
@@ -27,11 +27,15 @@ public class MainActivity extends Activity {
         String empType = "ceo";
         try
         {
-            long startTime = System.nanoTime();
+
+            /*
+           The role string is gotten from the hashmap of strings and employeeTypes, which calls its getRoles() abstract method, which calls the approperiate
+           getRoles method based on type, which calls the appropriate roleType class that implements the basic Role class to get the role description.
+             */
+
+
             String whatIstheRole = typeMap.get(empType).getRoles().getRole();
             System.out.println("FACTORY: Role of the Employee :::"+whatIstheRole);
-            long endTime = System.nanoTime();
-            System.out.println("FACTORY: Time difference ::: "+(endTime-startTime)+" nano seconds");
         }
         catch (NullPointerException e)
         {

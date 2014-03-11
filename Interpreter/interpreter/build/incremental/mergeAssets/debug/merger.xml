@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/BForte/Documents/workspace/00_XUtility/DesignPatterns/DesignPatterns_java/Interpreter/interpreter/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/BForte/Documents/workspace/00_XUtility/DesignPatterns/DesignPatterns_java/Interpreter/interpreter/src/debug/assets" />
+    </dataSet>
+
+</merger>

@@ -3,6 +3,8 @@ package com.example.factory;
 /**
  * Created by BForte on 3/10/14.
  */
+// This enum through EmployeeType also calls Role getRoles and returns the appropriate role.
+
 public enum EmployeeType
 {
     CEO("CEO")
@@ -32,6 +34,9 @@ public enum EmployeeType
                 }
             };
 
+
+
+
     private EmployeeType( String type )
     {
         this.type = type;
@@ -45,9 +50,15 @@ public enum EmployeeType
         return type;
     }
 
+
     @Override
     public String toString()
     {
         return "TYPE CODE -> "+type;
     }
+
+   /*  */
+
+
+
 }
