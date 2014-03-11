@@ -5,4 +5,4 @@
     android:layout_height="match_parent"
     tools:context="com.example.decorator2.MainActivity"
     tools:ignore="MergeRootFrame" />
-<!-- From: file:/Users/BForte/Documents/workspace/00_XUtility/DesignPatterns/Decorator2/decorator2/src/main/res/layout/activity_main.xml -->
+<!-- From: file:/Users/BForte/Documents/workspace/00_XUtility/DesignPatterns/DesignPatterns_java/Decorator2/decorator2/src/main/res/layout/activity_main.xml -->

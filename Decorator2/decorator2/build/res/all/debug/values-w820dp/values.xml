@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/Users/BForte/Documents/workspace/00_XUtility/DesignPatterns/Decorator2/decorator2/src/main/res/values-w820dp/dimens.xml -->
+    <!-- From: file:/Users/BForte/Documents/workspace/00_XUtility/DesignPatterns/DesignPatterns_java/Decorator2/decorator2/src/main/res/values-w820dp/dimens.xml -->
     <eat-comment />
 
     <dimen name="activity_horizontal_margin">64dp</dimen>

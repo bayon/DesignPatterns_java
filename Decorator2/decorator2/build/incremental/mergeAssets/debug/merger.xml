@@ -2,10 +2,10 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="/Users/BForte/Documents/workspace/00_XUtility/DesignPatterns/Decorator2/decorator2/src/main/assets" />
+        <source path="/Users/BForte/Documents/workspace/00_XUtility/DesignPatterns/DesignPatterns_java/Decorator2/decorator2/src/main/assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/BForte/Documents/workspace/00_XUtility/DesignPatterns/Decorator2/decorator2/src/debug/assets" />
+        <source path="/Users/BForte/Documents/workspace/00_XUtility/DesignPatterns/DesignPatterns_java/Decorator2/decorator2/src/debug/assets" />
     </dataSet>
 
 </merger>

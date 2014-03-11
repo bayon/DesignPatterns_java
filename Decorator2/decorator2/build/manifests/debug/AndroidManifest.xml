@@ -1,4 +1,4 @@
-<!-- From: file:/Users/BForte/Documents/workspace/00_XUtility/DesignPatterns/Decorator2/decorator2/src/main/AndroidManifest.xml -->
+<!-- From: file:/Users/BForte/Documents/workspace/00_XUtility/DesignPatterns/DesignPatterns_java/Decorator2/decorator2/src/main/AndroidManifest.xml -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.example.decorator2">
     <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="19"/>
 

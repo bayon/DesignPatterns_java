@@ -14,6 +14,6 @@ public class HoneyDecorator extends IcecreamDecorator {
     }
 
     private String addHoney() {
-        return " + sweet honey: DECORATOR";
+        return "-DECORATOR:  + HONEY ";
     }
 }

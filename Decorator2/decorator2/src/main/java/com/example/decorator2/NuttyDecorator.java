@@ -14,6 +14,6 @@ public class NuttyDecorator extends IcecreamDecorator {
     }
 
     private String addNuts() {
-        return " + cruncy nuts: DECORATOR ";
+        return "-DECORATOR: + NUTS ";
     }
 }
